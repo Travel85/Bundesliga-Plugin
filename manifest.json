@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "short_name": "Bundesliga",
+  "name": "Actual Bundesliga Spieltag Extension",
+  "version": "1.0.0",
+
+  "author": "Henry",
+
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "/pics/bundesliga-logo.png",
+    "default_title": "BL-Spieltag"
+  },
+  "description": "This extension shows you the actual Bundesliga match-day in a nice way. No more searching. Select league from dropdown to get diffrent leagues. Use toggle to show all games or only games of today",
+  "icons": {
+    "128": "/pics/bundesliga-logo.png"
+  }
+}
